@@ -9,6 +9,7 @@
     {
       "path": "./apps/auth-service"
     },
+    
     {
       "path": "./apps"
     },
